@@ -21,6 +21,9 @@ public class Abc {
 	public void demo(String uname)
 	{
 	System.out.println("hello" + uname);
+
+System.out.println("Amruta");
+System.out.println("Ziradkar");
 		
 	}
 @Test(dependsOnMethods= {"demo"})
